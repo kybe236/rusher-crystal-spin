@@ -1,0 +1,12 @@
+{
+  "Plugin-Class": "org.kybe.Main",
+  "Name": "Crystal Spin",
+  "Version": "${plugin_version}",
+  "Description": "Crystal Spin",
+  "Authors": [
+    "kybe236"
+  ],
+  "Minecraft-Versions": [
+    "1.21"
+  ]
+}
